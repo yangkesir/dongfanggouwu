@@ -1,1 +1,87 @@
-null
+.nav {
+  height: 32px;
+  border-bottom: 1px solid #d9d9d7;
+}
+
+.nav .nav-1 {
+  width: 1190px;
+  height: 32px;
+  margin: auto;
+  background: red;
+  display: left;
+}
+
+.nav .nav-2 {
+  width: 219.2px;
+  height: 32px;
+  background: rosybrown;
+  font-size: 12px;
+  text-align: left;
+  display: block;
+}
+
+.nav .nav-2 .welcome {
+  line-height: 32px;
+  color: #333;
+  float: left;
+  display: block;
+}
+
+.nav .nav-2 .dl {
+  color: #333;
+  float: left;
+  line-height: 32px;
+  display: block;
+}
+
+.nav .nav-2 .dl1 {
+  color: #333;
+  float: left;
+  line-height: 32px;
+  display: block;
+}
+
+.nav .nav-2 .songhuo {
+  color: #333;
+  float: left;
+  line-height: 32px;
+  display: block;
+}
+
+.nav .dizhi {
+  position: absolute;
+  z-index: 2;
+  width: 113px;
+  height: 22px;
+  border: 1px solid #f6f6f6;
+  background-color: #f6f6f6;
+  padding-top: 4px;
+  padding-left: 5px;
+  font-size: 16px;
+}
+
+.nav .dizhi .tb1 {
+  width: 16px;
+  height: 16px;
+  font-size: 16px;
+  font-style: normal;
+  display: block;
+  float: left;
+}
+
+.nav .dizhi .shanghai {
+  width: 48px;
+  height: 16px;
+  display: block;
+  float: left;
+  font-size: 16px;
+}
+
+.nav .dizhi .genghuan {
+  width: 49px;
+  height: 16px;
+  display: block;
+  float: left;
+  font-size: 16px;
+  cursor: pointer;
+}
