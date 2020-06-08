@@ -1,0 +1,27 @@
+.zy{
+    width: 875px;
+    height: 500px;
+    background: green;
+    margin: auto;
+    .left{
+        width: 450px;
+        height: 350px;
+        display: block;
+        float: left;
+        img{
+            padding-top: 100px;
+        }
+    }
+
+    .right{
+        width: 350px;
+        height: 370px;
+        display: block;
+        float: left;
+        p{
+            display: block;
+            margin: auto;
+            line-height: 20px;
+        }
+    }
+}
